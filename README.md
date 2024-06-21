@@ -1,6 +1,6 @@
 Long-form content processor
 
-This script processes Warhammer 40k content by generating TTS audio, combining it with background music, and creating a video from images. It uses several Python libraries to achieve this.
+This script processes content by generating TTS audio, combining it with background music, and creating a video from images. It uses several Python libraries to achieve this.
 
 ## License
 
